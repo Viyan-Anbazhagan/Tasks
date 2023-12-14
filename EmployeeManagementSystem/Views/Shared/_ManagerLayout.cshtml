@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%; margin: 0;">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EmployeeManagementSystem</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/EmployeeManagementSystem.styles.css" asp-append-version="true" />
+</head>
+<body style="height:87%; margin: 0;">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3" style="background-color: rgba(255,255,255,0.5);">
+            <div class="container-fluid">
+                <a style="font-weight:bold;" class="navbar-brand" asp-area="" asp-controller="Manager" asp-action="Index"><img src="../image/Logo.jpg" height="55px"/></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                         <li class="nav-item" style="margin-left: 79%;">
+                            <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Manager" asp-action="UserDetails"><img src="../image/User.jpg" height="25px" width="25px"/>Profile</a>
+                        </li>
+                         <li class="nav-item" style="margin-left: 1%;">
+                            <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login"><img src="../image/Login.png" height="30px" width="30px"/>Log Out</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="row" style="width:100%;height:100%; margin-top:-15px;">
+        <div class="sidebar-expanded d-none d-md-block col-2"  id="sticky-sidebar" style="background-color: rgb(161, 62, 194); text-align:center;">
+            <ul class="list-group sticky-top sticky-offset">
+                <li style="margin-top: 10%;" >
+                    <a asp-controller="Manager" asp-action="Index" class="nav-link text-dark">Home</a>
+                </li>
+                 <li style="margin-top: 10%;">
+                    <a asp-controller="Manager" asp-action="EmployeeDetails" class="nav-link text-dark">Project</a>
+                </li>
+                <li style="margin-top: 10%;">
+                    <a asp-controller="Manager" asp-action="ManagerDetails" class="nav-link text-dark">Team</a>
+                </li>
+                 <li style="margin-top: 10%;">
+                    <a asp-controller="Admin" asp-action="SystemAdminDetails" class="nav-link text-dark">Task</a>
+                </li>
+                </li>
+                <li style="margin-top: 10%;">
+                    <a asp-controller="Admin" asp-action="SystemAdminDetails" class="nav-link text-dark">Request</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-4">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div> 
+    </div>
+</body>
+</html> 

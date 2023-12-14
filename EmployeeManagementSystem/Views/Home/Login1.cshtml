@@ -1,0 +1,32 @@
+@model User
+@{
+    ViewData["Title"]="Login";
+}
+<head>
+    <style>
+        label{
+            text-align: left;
+            width: 10%;
+        }
+    </style>
+</head>
+<center>
+<h1>Login</h1>
+<br> 
+<form method = "post">
+    <p>
+        <label asp-for="Username" >Username</label>
+        <input asp-for="Username" placeholder="Username"/>
+    </p>
+    <p>
+        <label asp-for="Password" >Password</label>
+        <input asp-for="Password" placeholder="Password"/>
+    </p>
+    <br>
+     <p style="color: red;">@ViewBag.Message</p>
+    <p>
+        <button type="submit">Submit</button>
+    </p>  
+
+</form>
+</center>

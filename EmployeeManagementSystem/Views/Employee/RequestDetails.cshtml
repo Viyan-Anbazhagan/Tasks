@@ -1,0 +1,52 @@
+@model IEnumerable<Request>
+@{
+    ViewData["Title"]="List";
+    Layout="_EmployeeLayout";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 380px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 150px;
+        margin-top: 2px;
+        width: 780px;
+
+    }
+</style>
+<label>Request Details</label>
+<form action="get">
+<button asp-action="AddRequest" asp-controller="Employee" style="margin-left: 200%;">New</button></form>
+<table border=3 class="table table-striped table-hover" style="margin-left: 90px;margin-top: 2px;min-width: 900px;max-width: 900px;" >
+    <thead>
+        <tr>
+            <th>Request ID</th>
+            <th>Request To</th>
+            <th>Description</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Request request in Model){
+            <tr>
+                <td>@request.RequestID</td>
+                <td>@request.Receiver</td>
+                <td>@request.Description</td>
+                <td>@request.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

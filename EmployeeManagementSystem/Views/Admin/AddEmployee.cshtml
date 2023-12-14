@@ -1,0 +1,100 @@
+@model User
+@{
+    Layout="_login";
+}
+<style>
+    .headlabel{
+        background-color: rgb(161, 62, 194) ;
+        width: 9em;
+        font-weight: bold;
+    }
+    .datalabel{
+        width: 9em;
+    }
+    center{
+        margin-left:90px;
+    }
+    h1{
+        margin-left: 400px;
+        width: 400px;
+        margin-top:10%;
+    }
+    td{
+        padding: 30px;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+        margin-left: 450px;
+        margin-top: 20px;
+        height: 40px;
+        width: 80px;
+        font-weight: bold;
+    }
+</style>
+
+<h1>New User</h1>
+<form method="post">
+<center>
+<table>
+    <tr>
+        <td>
+            <label class="headlabel">Name </label>
+        </td>
+        <td>
+            <input asp-for="Name" class="datalabel" required></input>
+        </td>
+        <td>
+            <label class="headlabel">Age </label>
+        </td>
+        <td>
+            <input asp-for="age" class="datalabel" required></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Username</label>
+        </td>
+        <td>
+           <input asp-for="Username" class="datalabel" required></input>
+        </td>
+        <td>
+            <label class="headlabel">Password</label>
+        </td>
+        <td>
+           <input type="password" asp-for="Password" class="datalabel" required></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Role</label>
+        </td>
+        <td>
+           <input asp-for="Role" class="datalabel"  value="Employee" readonly></input>
+        </td>
+        <td>
+            <label class="headlabel">Designation</label>
+        </td>
+        <td>
+            <input  asp-for="Designation" class="datalabel" required></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Email ID</label>
+        </td>
+        <td>
+           <input type="email" asp-for="EmailID" class="datalabel" required></input>
+        </td>
+        <td>
+            <label class="headlabel">Phone No</label>
+        </td>
+        <td>
+            <input asp-for="Phoneno" class="datalabel" required></input>
+        </td>
+    </tr>
+</table>
+</center>
+<button type="submit">Register</button> 
+</form>

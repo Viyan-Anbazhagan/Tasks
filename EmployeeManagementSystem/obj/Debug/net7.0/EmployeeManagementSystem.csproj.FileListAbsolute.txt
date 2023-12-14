@@ -1,0 +1,443 @@
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+E:\Vs Code\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Viyan\EmployeeManagementSystem (2)\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+E:\Vs Code\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Viyan\07.03.2023\07.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+E:\Vs Code\16.03.2023\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_ManagerLayout.cshtml.rz.scp.css
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_SystemAdminLayout.cshtml.rz.scp.css
+C:\Viyan\16.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_ManagerLayout.cshtml.rz.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_SystemAdminLayout.cshtml.rz.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+E:\Vs Code\20.03.2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_ManagerLayout.cshtml.rz.scp.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_SystemAdminLayout.cshtml.rz.scp.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Viyan\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_ManagerLayout.cshtml.rz.scp.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_SystemAdminLayout.cshtml.rz.scp.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+E:\Vs Code\22-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.staticwebassets.runtime.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagementSystem.props
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementSystem.props
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementSystem.props
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_login.cshtml.rz.scp.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_ManagerLayout.cshtml.rz.scp.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_SystemAdminLayout.cshtml.rz.scp.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagementSystem.bundle.scp.css
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CopyComplete
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Viyan\28-03-2023\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll

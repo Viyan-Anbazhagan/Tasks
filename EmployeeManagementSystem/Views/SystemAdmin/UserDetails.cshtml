@@ -1,0 +1,73 @@
+@model User
+@{
+    Layout="_SystemAdminLayout";
+}
+<style>
+    .headlabel{
+        background-color: rgb(161, 62, 194) ;
+        width: 9em;
+        font-weight: bold;
+    }
+    .datalabel{
+        width: 9em;
+    }
+    center{
+        margin-left:90px;
+    }
+    h1{
+        margin-left: 350px;
+        width: 400px;
+        margin-top:10%;
+    }
+    td{
+        padding: 40px;
+    }
+</style>
+
+<h1>Your Details</h1>
+<center>
+<table>
+    <tr>
+        <td>
+            <label class="headlabel">Your Name </label>
+        </td>
+        <td>
+            <label class="datalabel">@Model.Name</label>
+        </td>
+        <td>
+            <label class="headlabel">Your Age </label>
+        </td>
+        <td>
+            <label class="datalabel">@Model.age</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Your Username</label>
+        </td>
+        <td>
+            <label class="datalabel">@Model.Username</label>
+        </td>
+        <td>
+            <label class="headlabel">Your Designation</label>
+        </td>
+        <td>
+            <label class="datalabel">@Model.Designation</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Your Email ID</label>
+        </td>
+        <td>
+            <label class="datalabel">@Model.EmailID</label>
+        </td>
+        <td>
+            <label class="headlabel">Your Phone No</label>
+        </td>
+        <td>
+            <label class="datalabel">@Model.Phoneno</label>
+        </td>
+    </tr>
+</table>
+</center>

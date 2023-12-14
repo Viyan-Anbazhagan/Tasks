@@ -1,0 +1,58 @@
+@model IEnumerable<Request>
+@{
+    ViewData["Title"]="List";
+    Layout="_SystemAdminLayout";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 380px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 150px;
+        margin-top: 2px;
+        min-width: 780px;
+        max-width: 780px;
+
+    }
+</style>
+<label>Request Details</label>
+@* <table>
+    <tr>
+        <td><a asp-action="RequestDetails" asp-controller="Admin">RequestDetails</a></td>
+        <td><a asp-action="FRequestDetails" asp-controller="Admin">RequestDetails</a></td>
+    </tr>
+</table> *@
+<p><a style="margin-left: 90%;" asp-action="RequestDetails" asp-controller="Admin">RequestDetails</a><a style="margin-left: 13%;" asp-action="FRequestDetails" asp-controller="Admin">RequestDetails</a></p>
+<table border=3 class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Request ID</th>
+            <th>Username</th>
+            <th>Description</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Request request in Model){
+            <tr>
+                <td>@request.RequestID</td>
+                <td>@request.Username</td>
+                <td>@request.Description</td>
+                <td>@request.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

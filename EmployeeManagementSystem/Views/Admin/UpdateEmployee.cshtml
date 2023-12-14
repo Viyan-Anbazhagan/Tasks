@@ -1,0 +1,86 @@
+@model User
+@{
+    Layout="_login";
+}
+<style>
+    .headlabel{
+        background-color: rgb(161, 62, 194) ;
+        width: 9em;
+        font-weight: bold;
+    }
+    .datalabel{
+        width: 9em;
+    }
+    center{
+        margin-left:90px;
+    }
+    h1{
+        margin-left: 350px;
+        width: 400px;
+        margin-top:10%;
+    }
+    td{
+        padding: 40px;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+        margin-left: 430px;
+        margin-top: 20px;
+        height: 40px;
+        width: 80px;
+        font-weight: bold;
+    }
+</style>
+
+<h1>Update Details</h1>
+<form method="post">
+<center>
+<table>
+    <tr>
+        <td>
+            <label class="headlabel">Your Name </label>
+        </td>
+        <td>
+            <input asp-for="Name" class="datalabel" value="@Model.Name"></input>
+        </td>
+        <td>
+            <label class="headlabel">Your Age </label>
+        </td>
+        <td>
+            <input asp-for="age" class="datalabel" value="@Model.age"></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Your Username</label>
+        </td>
+        <td>
+           <input asp-for="Username" class="datalabel" value="@Model.Username" readonly></input>
+        </td>
+        <td>
+            <label class="headlabel">Your Designation</label>
+        </td>
+        <td>
+            <input  asp-for="Designation" class="datalabel" value="@Model.Designation"></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Your Email ID</label>
+        </td>
+        <td>
+           <input asp-for="EmailID" class="datalabel" value="@Model.EmailID"></input>
+        </td>
+        <td>
+            <label class="headlabel">Your Phone No</label>
+        </td>
+        <td>
+            <input asp-for="Phoneno" class="datalabel" value="@Model.Phoneno"></input>
+        </td>
+    </tr>
+</table>
+</center>
+<button asp-controller="Admin" asp-action="UpdateEmploye" type="submit">Update</button> 
+</form>

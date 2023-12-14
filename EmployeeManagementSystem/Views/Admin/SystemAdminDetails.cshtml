@@ -1,0 +1,65 @@
+@model IEnumerable<User>
+@{
+    ViewData["Title"]="List";
+    Layout="_login";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 380px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 150px;
+        margin-top: 2px;
+        width: 780px;
+
+
+    }
+</style>
+<label>System Admin Details</label>
+<form action="get">
+<button asp-action="AddSystemAdmin" asp-controller="Admin" style="margin-left: 200%;">New</button></form>
+<table border=3 class="table table-striped table-hover" >
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Username</th>
+            <th>Designation</th>
+            <th>Email ID</th>
+            <th>Phone No</th>
+            <th> </th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(User user in Model){
+            <tr>
+                <td>@user.Name</td>
+                <td>@user.age</td>
+                <td>@user.Username</td>
+                <td>@user.Designation</td>
+                <td>@user.EmailID</td>
+                <td>@user.Phoneno</td>
+                <form asp-action="post">
+                <td><button asp-controller="Admin" asp-action="Delete" type="submit" asp-route-username="@user.Username">Delete</button></td>
+                </form>
+                <form asp-action="post">
+                <td><button asp-action="EmployeeDetails" asp-controller="Admin" asp-route-username="@user.Username" type="submit">Update</button></td>
+                </form>
+            </tr>
+        }
+    </tbody>
+</table>

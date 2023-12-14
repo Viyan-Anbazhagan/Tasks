@@ -1,0 +1,76 @@
+@model Request
+@{
+    Layout="_ManagerLayout";
+}
+<style>
+    .headlabel{
+        background-color: rgb(161, 62, 194) ;
+        width: 9em;
+        font-weight: bold;
+    }
+    .datalabel{
+        width: 9em;
+    }
+    center{
+        margin-left:90px;
+    }
+    h1{
+        margin-left: 400px;
+        width: 400px;
+        margin-top:10%;
+    }
+    td{
+        padding: 30px;
+        margin-left: 20%;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+        margin-left: 450px;
+        margin-top: 20px;
+        height: 40px;
+        width: 80px;
+        font-weight: bold;
+    }
+    label{
+        margin-left: 60%;
+    }
+    input{
+        margin-left: 15%;
+    }
+    textarea{
+        margin-left: 15%;
+    }
+    select{
+        margin-left: 15%;
+    }
+</style>
+
+<h1>New Project</h1>
+<form method="post">
+<center>
+<table>
+    <tr>
+        <td>
+            <label class="headlabel">Request To</label>
+        </td>
+        <td>
+            <select asp-for="Receiver" class="datalabel">
+                <option value="Admin">Admin</option>
+                <option value="SystemAdmin">System Admin</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Description</label>
+        </td>
+        <td>
+            <textarea rows="5" style=" width:500px" type="text" asp-for="Description" class="datalabel" required></textarea>
+        </td>
+    </tr>
+</table>
+</center>
+<button type="submit">Request</button> 
+</form>
