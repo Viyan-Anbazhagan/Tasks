@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Viyan\\28-03-2023\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\viyan.anbazhagan\\Downloads\\Tasks\\Git\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "projectName": "EmployeeManagementSystem",
-      "projectPath": "C:\\Viyan\\28-03-2023\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectPath": "C:\\Users\\viyan.anbazhagan\\Downloads\\Tasks\\Git\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "packagesPath": "C:\\Users\\viyan.anbazhagan\\.nuget\\packages\\",
-      "outputPath": "C:\\Viyan\\28-03-2023\\EmployeeManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\viyan.anbazhagan\\Downloads\\Tasks\\Git\\EmployeeManagementSystem\\EmployeeManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\viyan.anbazhagan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -522,6 +522,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -530,7 +548,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
