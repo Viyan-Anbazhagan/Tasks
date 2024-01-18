@@ -47,7 +47,7 @@
     }
 </style>
 
-<h1>New Project</h1>
+<h1>New Request</h1>
 <form method="post">
 <center>
 <table>
@@ -56,7 +56,7 @@
             <label class="headlabel">Request To</label>
         </td>
         <td>
-            <select asp-for="Receiver" class="datalabel">
+            <select asp-for="Receiver" class="datalabel" required>
                 <option value="Admin">Admin</option>
                 <option value="SystemAdmin">System Admin</option>
             </select>

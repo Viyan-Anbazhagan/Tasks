@@ -29,14 +29,15 @@
 </style>
 <label>Project Details</label>
 <form action="get" class="table table-striped table-hover">
-<button asp-action="AddProject" asp-controller="Admin" style="margin-left: 200%;">New</button></form>
-<table border=3 class="table table-striped table-hover" style="margin-left: 100px;margin-top: 2px;min-width: 850px;max-width: 850px;">
+<button asp-action="AssignProject" asp-controller="Admin" style="margin-left: 200%;">New</button></form>
+<table border=3 class="table table-striped table-hover" style="margin-left: 100px;margin-top:-14px;min-width: 850px;max-width: 850px;">
     <thead>
         <tr>
-            <th>Name</th>
+            <th>Project Name</th>
             <th>Deadline</th>
             <th>Manager</th>
-            <th>Documents</th>
+            <th>SRS Document</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -45,7 +46,12 @@
                 <td>@project.Name</td>
                 <td>@project.Deadline</td>
                 <td>@project.Manager</td>
-                <td>@project.Document</td>
+                <form  asp-action="get">
+                <td><button asp-controller="Admin" asp-action="ViewPDF" type="submit" asp-route-name="@project.Name">View Document</button></td>
+                </form>
+                <form  asp-action="post">
+                <td><button asp-controller="Admin" asp-action="DeleteProject" type="submit" asp-route-name="@project.Name">Delete</button></td>
+                </form>
             </tr>
         }
     </tbody>

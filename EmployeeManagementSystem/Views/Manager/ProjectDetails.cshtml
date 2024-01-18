@@ -1,0 +1,50 @@
+@model Project
+@{
+    ViewData["Title"]="List";
+    Layout="_ManagerLayout";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 380px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 150px;
+        max-width: 780px;
+
+    }
+</style>
+<label>Project Details</label>
+<table border=3 class="table table-striped table-hover" style="margin-left: 100px;margin-top:10px;min-width: 850px;max-width: 850px;">
+    <thead>
+        <tr>
+            <th>Project Name</th>
+            <th>Deadline</th>
+            <th>Manager</th>
+            <th>SRS Document</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.Name</td>
+                <td>@Model.Deadline</td>
+                <td>@Model.Manager</td>
+                <form  asp-action="get">
+                <td><button asp-controller="Manager" asp-action="ViewPDF" type="submit" asp-route-name="@Model.Name">View Document</button></td>
+                </form>
+            </tr>
+    </tbody>
+</table>

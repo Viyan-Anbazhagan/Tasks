@@ -1,0 +1,60 @@
+@model IEnumerable<User>
+@{
+    ViewData["Title"]="List";
+    Layout="_ManagerLayout";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 380px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 100px;
+        margin-top: 2px;
+        min-width: 900px;
+        max-width: 900px;
+    }
+</style>
+<label>Team Members</label>
+<form action="get">
+<button asp-action="AddTeam" asp-controller="Manager" style="margin-left: 218%;">New</button></form>
+<table border=3 class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Username</th>
+            <th>Designation</th>
+            <th>Email ID</th>
+            <th>Phone No</th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(User user in Model){
+            <tr>
+                <td>@user.Name</td>
+                <td>@user.age</td>
+                <td>@user.Username</td>
+                <td>@user.Designation</td>
+                <td>@user.EmailID</td>
+                <td>@user.Phoneno</td>
+                <form method="post">
+                <td><button type="submit" asp-route-username="@user.Username">Remove</button></td>
+                </form>
+            </tr>
+        }
+    </tbody>
+</table>

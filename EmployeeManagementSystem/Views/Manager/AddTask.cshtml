@@ -1,0 +1,70 @@
+@model Team
+@{
+    Layout="_ManagerLayout";
+}
+<style>
+    .headlabel{
+        background-color: rgb(161, 62, 194) ;
+        width: 9em;
+        font-weight: bold;
+        margin-left: 200px;
+    }
+    .datalabel{
+        width: 9em;
+    }
+    center{
+        margin-left:90px;
+    }
+    h1{
+        margin-left: 400px;
+        width: 400px;
+        margin-top:10%;
+    }
+    td{
+        padding: 30px;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+        margin-left: 450px;
+        margin-top: 20px;
+        height: 40px;
+        width: 80px;
+        font-weight: bold;
+    }
+</style>
+
+<h1>New Task</h1>
+<form method="post">
+<center>
+<table>
+    <tr>
+        <td>
+            <label class="headlabel">Task Name </label>
+        </td>
+        <td>
+            <input asp-for="Taskname" class="datalabel" required></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Deadline</label>
+        </td>
+        <td>
+            <input type="date" asp-for="Deadline" asp-format="{0:yyyy-MM-dd}" class="datalabel" req></input>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label class="headlabel">Domain</label>
+        </td>
+        <td>
+           <input asp-for="Domain" class="datalabel" required></input>
+        </td>
+    </tr>
+</table>
+<label style="color:red;margin-left: 200px;margin-right:-300px;width: 20em;">@ViewBag.message</label>
+</center>
+<button type="submit">Assign</button> 
+</form>

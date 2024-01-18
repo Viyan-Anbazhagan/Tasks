@@ -43,13 +43,13 @@
             <label class="headlabel">Your Name </label>
         </td>
         <td>
-            <input asp-for="Name" class="datalabel" value="@Model.Name"></input>
+            <input asp-for="Name" class="datalabel" value="@Model.Name" required></input>
         </td>
         <td>
             <label class="headlabel">Your Age </label>
         </td>
         <td>
-            <input asp-for="age" class="datalabel" value="@Model.age"></input>
+            <input type="number" min="18" max="60" asp-for="age" class="datalabel" value="@Model.age" required></input>
         </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
             <label class="headlabel">Your Designation</label>
         </td>
         <td>
-            <input  asp-for="Designation" class="datalabel" value="@Model.Designation"></input>
+            <input  asp-for="Designation" class="datalabel" value="@Model.Designation" required></input>
         </td>
     </tr>
     <tr>
@@ -71,13 +71,13 @@
             <label class="headlabel">Your Email ID</label>
         </td>
         <td>
-           <input asp-for="EmailID" class="datalabel" value="@Model.EmailID"></input>
+           <input asp-for="EmailID" class="datalabel" value="@Model.EmailID" required></input>
         </td>
         <td>
             <label class="headlabel">Your Phone No</label>
         </td>
         <td>
-            <input asp-for="Phoneno" class="datalabel" value="@Model.Phoneno"></input>
+            <input type="number" asp-for="Phoneno" class="datalabel" value="@Model.Phoneno" required></input>
         </td>
     </tr>
 </table>

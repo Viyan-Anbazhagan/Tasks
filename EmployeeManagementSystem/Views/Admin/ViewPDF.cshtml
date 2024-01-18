@@ -1,0 +1,15 @@
+@{
+    Layout="_login";
+    ViewData["Title"] = "View PDF";
+}
+
+<h2>Document</h2>
+
+@if (Model != null)
+{
+    <iframe src="@Url.Action("ViewPDF", "Admin", new { id = Model.Id })" style="width: 100%; height: 500px;"></iframe>
+}
+else
+{
+    <p>No PDF data found.</p>
+}

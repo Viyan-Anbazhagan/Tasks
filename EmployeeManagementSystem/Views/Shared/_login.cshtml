@@ -23,7 +23,7 @@
                             <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="UserDetails"><img src="../image/User.jpg" height="25px" width="25px"/>Profile</a>
                         </li>
                          <li class="nav-item" style="margin-left: 1%;">
-                            <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login"><img src="../image/Login.png" height="30px" width="30px"/>Log Out</a>
+                            <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout"><img src="../image/Login.png" height="30px" width="30px"/>Log Out</a>
                         </li>
                     </ul>
                 </div>
@@ -52,6 +52,9 @@
                 <li style="margin-top: 10%;">
                     <a asp-controller="Admin" asp-action="RequestDetails" class="nav-link text-dark">Request</a>
                 </li>
+                 <li style="margin-top: 10%;">
+                    <a asp-controller="Feedback" asp-action="GetFeedbacks" class="nav-link text-dark">Feedback</a>
+                </li>
             </ul>
         </div>
         <div class="col-4">
@@ -60,5 +63,9 @@
             </main>
         </div> 
     </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html> 

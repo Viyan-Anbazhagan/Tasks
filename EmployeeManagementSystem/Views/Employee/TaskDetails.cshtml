@@ -1,0 +1,54 @@
+@model IEnumerable<Team>
+@{
+    Layout="_EmployeeLayout";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(161, 62, 194);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 420px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+</style>
+<label>Task Details</label>
+<br>
+<table style="margin-left: 81%;margin-top:-15px;">
+    <tr>
+        <td style="padding:33px"><form method="get" asp-action="TaskDetails" asp-controller="Employee"><button type="submit" style="margin-left: 80%; background-color:white; width:80px; border:solid 1px rgb(161, 62, 194)" >Pending</button></form></td>
+        <td style= "padding:33px"><form method="get" asp-action="FTaskDetails" asp-controller="Employee"><button type="submit">Completed</button></form></td>
+    </tr>
+</table>
+<table border=3 class="table table-striped table-hover" style="margin-left: 90px;margin-top:-15px;min-width: 900px;max-width: 900px;">
+    <thead>
+        <tr>
+            <th>Taskname</th>
+            <th>Manager</th>
+            <th>Deadline</th>
+            <th>Status</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Team task in Model){
+            <tr>
+                <td>@task.Taskname</td>
+                <td>@task.Manager</td>
+                <td>@task.Deadline</td>
+                <td>@task.Status</td>
+                <form asp-action="post">
+                <td><button asp-route-taskname="@task.Taskname" asp-route-deadline="@task.Deadline" asp-route-manager="@task.Manager" type="submit">Completed</button></td>
+                </form>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -34,7 +34,7 @@
     }
 </style>
 
-<h1>New User</h1>
+<h1>New SystemAdmin</h1>
 <form method="post">
 <center>
 <table>
@@ -49,7 +49,7 @@
             <label class="headlabel">Age </label>
         </td>
         <td>
-            <input asp-for="age" class="datalabel" required></input>
+            <input type="number" min="18" max="60" asp-for="age" class="datalabel" required></input>
         </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
             <label class="headlabel">Password</label>
         </td>
         <td>
-           <input type="password" asp-for="Password" class="datalabel" required></input>
+           <input type="password" asp-for="Password" pattern="^.*(?=.{8,})(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[&#64#$%^&+=]).*$" class="datalabel" required></input>
         </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@
             <label class="headlabel">Phone No</label>
         </td>
         <td>
-            <input asp-for="Phoneno" class="datalabel" required></input>
+            <input type="number" asp-for="Phoneno" class="datalabel" required></input>
         </td>
     </tr>
 </table>

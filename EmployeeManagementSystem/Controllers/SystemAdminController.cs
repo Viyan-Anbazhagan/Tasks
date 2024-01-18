@@ -1,19 +1,18 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http;
 using EmployeeManagementSystem.Models;
-using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EmployeeManagementSystem.Controllers;
-
+[Authorize(Roles ="SystemAdmin")]
 public class SystemAdminController : Controller
 {
-    Repository repository=new Repository();
-    private readonly ILogger<HomeController> _logger;
-
-    public SystemAdminController(ILogger<HomeController> logger)
+    private readonly ILogger<SystemAdminController> _logger;
+    private readonly IRepository _repository;
+    public SystemAdminController(ILogger<SystemAdminController> logger, IRepository repository)
     {
         _logger = logger;
+        _repository = repository;
     }
 
     public IActionResult Index()
@@ -22,32 +21,25 @@ public class SystemAdminController : Controller
     }
     public IActionResult UserDetails(){
         string? Username= HttpContext.Session.GetString("Username");
-        return View(repository.display(Username));
+        return View(_repository.ViewUser(Username));
     }
     [HttpGet]
     public IActionResult RequestDetails()
     {
-        List<Request> requestlist=repository.Requestdetail("SystemxAdmin");
+        List<Request> requestlist=_repository.ViewRequestReceiver("SystemAdmin");
         return View(requestlist);
     }
     [HttpPost]
-    public IActionResult RequestDetails(int RequestID)
+    public IActionResult RequestDetails(int requestID,string status)
     {
-        repository.UpdateStatus(RequestID,"Done");
-        return RedirectToAction("FRequestDetails");
-    }
-
-    [HttpPost]
-    public IActionResult Reject(int RequestID)
-    {
-        repository.UpdateStatus(RequestID,"Rejected");
+        _repository.UpdateRequest(requestID,status);
         return RedirectToAction("FRequestDetails");
     }
 
     [HttpGet]
     public IActionResult FRequestDetails()
     {
-        List<Request> requestlist=repository.Requestdetail("SystemAdmin","In Progress");
+        List<Request> requestlist=_repository.ViewRequest("SystemAdmin");
         return View(requestlist);
     }
 }

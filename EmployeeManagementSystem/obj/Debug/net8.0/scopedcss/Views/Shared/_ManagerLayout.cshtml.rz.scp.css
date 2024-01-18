@@ -1,0 +1,49 @@
+/* @import url("http://fonts.googleapis.com/css2family=Poppins:wgth@400;500;600;700&display=swap"); */
+
+a.navbar-brand[b-cv6x4ftrxj] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    height: 10%;
+  }
+  
+  a[b-cv6x4ftrxj] {
+    color: #0077cc;
+  }
+  
+  .btn-primary[b-cv6x4ftrxj] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+  }
+  
+  .nav-pills .nav-link.active[b-cv6x4ftrxj], .nav-pills .show > .nav-link[b-cv6x4ftrxj] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+  }
+  
+  .border-top[b-cv6x4ftrxj] {
+    border-top: 1px solid #e5e5e5;
+  }
+  .border-bottom[b-cv6x4ftrxj] {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .box-shadow[b-cv6x4ftrxj] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  }
+  
+  button.accept-policy[b-cv6x4ftrxj] {
+    font-size: 1rem;
+    line-height: inherit;
+  }
+  
+  .footer[b-cv6x4ftrxj] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+  }
+  

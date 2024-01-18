@@ -21,7 +21,7 @@
         margin-top:10%;
     }
     td{
-        padding: 30px;
+        padding: 15px;
     }
     button{
         border:none ;
@@ -36,9 +36,9 @@
 </style>
 
 <h1>New Project</h1>
-<form method="post">
+<form method="post" asp-action="AddProjects" asp-controller="Admin">
 <center>
-<table>
+<table style="margin-left: 30px;">
     <tr>
         <td>
             <label class="headlabel">Name </label>
@@ -46,27 +46,20 @@
         <td>
             <input asp-for="Name" class="datalabel" required></input>
         </td>
+        <td>
+            <span asp-validation-for="Name"></span>
+        </td>
     </tr>
     <tr>
         <td>
             <label class="headlabel">Deadline</label>
         </td>
         <td>
-            <input type="date" id="date" name="date" asp-for="Deadline" onchange="mindate();" class="datalabel"></input>
-            <script>
-                $(function mindate() {
-                    var dtToday = new Date();
-                    var month = dtToday.getMonth() + 1;
-                    var day = dtToday.getDate();
-                    var year = dtToday.getFullYear();
-                    if (month < 10)
-                        month = '0' + month.toString();
-                    if (day < 10)
-                        day = '0' + day.toString();
-                    var minDate = year + '-' + month + '-' + day;
-                    $('#date').attr('min', minDate);
-                });
-            </script>
+            <input type="date" asp-for="Deadline" asp-format="{0:yyyy-MM-dd}" class="datalabel" required></input>
+        </td>
+
+         <td>
+            <span asp-validation-for="Deadline"></span>
         </td>
     </tr>
     <tr>
@@ -74,7 +67,10 @@
             <label class="headlabel">Manager</label>
         </td>
         <td>
-           <input asp-for="Manager" class="datalabel" required></input>
+           <input asp-for="Manager" class="datalabel" readonly></input>
+        </td>
+        <td>
+            <span asp-validation-for="Manager"></span>
         </td>
     </tr>
     <tr>
@@ -84,6 +80,9 @@
         <td>
            <input style="width:40em;" type="file" asp-for="Document" accept=".pdf" required></input>
         </td>
+        <td>
+            <span asp-validation-for="Document"></span>
+        </td> 
     </tr>
 </table>
 </center>

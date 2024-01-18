@@ -2,36 +2,11 @@
 @{
   Layout="_Login";
 }
-@*
-  <style>
-    .div1{
-     width: 110%;
-     margin-left: -120px;
-     margin-top: -15px;
-    }
-    .heading{
-      text-align: center;
-      font-weight:bold;
-      color:rgb(161, 62, 194);
-    }
-    .subheading{
-      text-align: center;
-      font-weight:bold;
-      margin-left: 65%;
-      margin-right: -400px;
-    }
-    .para{
-      text-align: justify;
-      margin: 0 5em;
-      font-size:18px;
-    }
-  </style>
-  
-</head> *@
 <style>
     .div1{
-     width: 1150px;
+     width: 1145px;
      margin-left: -12px;
+     margin-top: -16px;
     }
     .heading{
       text-align: center;
@@ -39,7 +14,7 @@
       color:rgb(161, 62, 194);
       margin-left: 65%;
       margin-right: -400px;
-    }
+    } 
       .para{
       text-align: justify;
       margin: 0 5em;
@@ -47,7 +22,7 @@
       margin-right: -600px;
       margin-left: 10%;
     }
-        .subheading{
+      .subheading{
       text-align: center;
       font-weight:bold;
       margin-left: 65%;
@@ -55,7 +30,13 @@
     }
 
 </style>
-   
+
+@if (TempData["SuccessMessage"] != null)
+  {
+    <div class="alert alert-success" style="margin-left: -12px;width:1145px">
+        @TempData["SuccessMessage"]
+    </div>
+  }
 <div class="div1">
   <img src="../image/Index.jpg" style="width:100%;"> 
 </div>

@@ -5,8 +5,9 @@
 
 <style>
     .div1{
-     width: 1150px;
+     width: 1145px;
      margin-left: -12px;
+     margin-top: -16px;
     }
     .heading{
       text-align: center;
@@ -30,7 +31,13 @@
     }
 
 </style>
-   
+
+@if (TempData["SuccessMessage"] != null)
+  {
+    <div class="alert alert-success" style="margin-left: -12px;width:1145px">
+        @TempData["SuccessMessage"]
+    </div>
+  }
 <div class="div1">
   <img src="../image/Index.jpg" style="width:100%;"> 
 </div>

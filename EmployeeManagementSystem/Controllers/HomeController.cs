@@ -1,19 +1,19 @@
-﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Mvc;
 using EmployeeManagementSystem.Models;
-using System.Collections.Generic;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 
 namespace EmployeeManagementSystem.Controllers;
 
 public class HomeController : Controller
 {
-    Repository repository=new Repository();
     private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    private readonly IRepository _repository;
+    public HomeController(ILogger<HomeController> logger, IRepository repository)
     {
         _logger = logger;
+        _repository = repository;
     }
 
     public IActionResult Index()
@@ -21,44 +21,34 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-    }
-
-
     [HttpGet]
     public IActionResult Login(){
-        return View();
+        string username=HttpContext.Session.GetString("username");
+        if(!string.IsNullOrEmpty(username)){
+           string role = _repository.GetRole(username);
+           return RedirectToAction("Index",$"{role}");        
+        }
+        else{
+            return View();    
+        }
     }
 
     [HttpPost]
     public IActionResult Login(User user){
-
-        bool flag = repository.login(user);
-        if(flag){
-            string role =repository.GetRole(user);
-            if(role.Equals("Admin")){
+        if(_repository.AuthenticateUser(user)){
+            string role =_repository.GetRole(user.Username);
+            if(role!=null){
                 HttpContext.Session.SetString("Username",Convert.ToString(user.Username));
-                return RedirectToAction("Index","Admin");
-            }
-            else if(role.Equals("Manager")){
-                HttpContext.Session.SetString("Username",Convert.ToString(user.Username));
-                return RedirectToAction("Index","Manager");
-            }
-            else if(role.Equals("SystemAdmin")){
-                HttpContext.Session.SetString("Username",Convert.ToString(user.Username));
-                return RedirectToAction("Index","SystemAdmin");
-            }
-            else if(role.Equals("Employee")){
-                HttpContext.Session.SetString("Username",Convert.ToString(user.Username));
-                return RedirectToAction("Index","Employee");
+                TempData["SuccessMessage"]="Log In Successfull";
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, user.Username),
+                    new Claim(ClaimTypes.Role, role),
+                };
+                
+                var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
+                return RedirectToAction("Index",$"{role}");
             }
             else{
                 return View();
@@ -78,7 +68,7 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Forgotpassword(User user){
 
-        string flag = repository.change(user);
+        string flag = _repository.ChangePassword(user);
         if(flag.Equals("exist")){
             ViewBag.message="Invalid Username";
             return View();
@@ -88,14 +78,15 @@ public class HomeController : Controller
             return View();
         }
         else if(flag.Equals("success")){
-            return RedirectToAction("Login");
+            ViewBag.message="Password Changed";
+            return View("Login");
         }
         return View();
 
     }
-     
-     public IActionResult Thanks()
-    {
-        return View();
+    public IActionResult Logout(){
+        HttpContext.Session.Remove("Username");
+        return RedirectToAction("Login");
     }
+     
 }

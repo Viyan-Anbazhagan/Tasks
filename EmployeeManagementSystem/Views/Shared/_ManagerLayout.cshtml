@@ -23,7 +23,7 @@
                             <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Manager" asp-action="UserDetails"><img src="../image/User.jpg" height="25px" width="25px"/>Profile</a>
                         </li>
                          <li class="nav-item" style="margin-left: 1%;">
-                            <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login"><img src="../image/Login.png" height="30px" width="30px"/>Log Out</a>
+                            <a style="font-family:arial;font-style:italic;font-size:15px; margin-top:10px; font-color: grey;" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout"><img src="../image/Login.png" height="30px" width="30px"/>Log Out</a>
                         </li>
                     </ul>
                 </div>
@@ -37,17 +37,20 @@
                     <a asp-controller="Manager" asp-action="Index" class="nav-link text-dark">Home</a>
                 </li>
                  <li style="margin-top: 10%;">
-                    <a asp-controller="Manager" asp-action="EmployeeDetails" class="nav-link text-dark">Project</a>
+                    <a asp-controller="Manager" asp-action="ProjectDetails" class="nav-link text-dark">Project</a>
                 </li>
                 <li style="margin-top: 10%;">
-                    <a asp-controller="Manager" asp-action="ManagerDetails" class="nav-link text-dark">Team</a>
+                    <a asp-controller="Manager" asp-action="TeamDetails" class="nav-link text-dark">Team</a>
                 </li>
                  <li style="margin-top: 10%;">
-                    <a asp-controller="Admin" asp-action="SystemAdminDetails" class="nav-link text-dark">Task</a>
+                    <a asp-controller="Manager" asp-action="TaskDetails" class="nav-link text-dark">Task</a>
                 </li>
                 </li>
                 <li style="margin-top: 10%;">
-                    <a asp-controller="Admin" asp-action="SystemAdminDetails" class="nav-link text-dark">Request</a>
+                    <a asp-controller="Manager" asp-action="RequestDetails" class="nav-link text-dark">Request</a>
+                </li>
+                 <li style="margin-top: 10%;">
+                    <a asp-controller="Feedback" asp-action="PostFeedback" class="nav-link text-dark">Feedback</a>
                 </li>
             </ul>
         </div>
@@ -56,6 +59,7 @@
                 @RenderBody()
             </main>
         </div> 
-    </div>
+    </div> 
+
 </body>
 </html> 

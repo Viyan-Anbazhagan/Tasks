@@ -1,0 +1,227 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeManagementSystem
+build_property.RootNamespace = EmployeeManagementSystem
+build_property.ProjectDir = c:\Users\viyan.anbazhagan\Downloads\Tasks\Git\EmployeeManagementSystem\EmployeeManagementSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\viyan.anbazhagan\Downloads\Tasks\Git\EmployeeManagementSystem\EmployeeManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/AddManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTWFuYWdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/AddProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/AddSystemAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3lzdGVtQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/AssignProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXNzaWduUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/EmployeeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1wbG95ZWVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/FRequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRlJlcXVlc3REZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/ManagerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/ProjectDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvamVjdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/RequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVxdWVzdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/SystemAdminDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3lzdGVtQWRtaW5EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Admin/ViewPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld1BERi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/AddRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/FTaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRlRhc2tEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/RequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUmVxdWVzdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/TaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVGFza0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/TeamDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVGVhbURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Employee/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXNlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Home/Forgotpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3Jnb3RwYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Home/Login1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Home/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/AddRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBZGRSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/AddTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBZGRUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/AddTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBZGRUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/FTaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxGVGFza0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/ProjectDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxQcm9qZWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/RequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxSZXF1ZXN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/TaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxUYXNrRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/TeamDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxUZWFtRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxVc2VyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Manager/ViewPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxWaWV3UERGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/SystemAdmin/FRequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3lzdGVtQWRtaW5cRlJlcXVlc3REZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/SystemAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3lzdGVtQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/SystemAdmin/RequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3lzdGVtQWRtaW5cUmVxdWVzdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/SystemAdmin/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3lzdGVtQWRtaW5cVXNlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/_EmployeeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FbXBsb3llZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-3t0zghtmdi
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-99m38ankfr
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/_login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-iydbsfyua9
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/_ManagerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYW5hZ2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-cv6x4ftrxj
+
+[c:/Users/viyan.anbazhagan/Downloads/Tasks/Git/EmployeeManagementSystem/EmployeeManagementSystem/Views/Shared/_SystemAdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TeXN0ZW1BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-yv764l3dwl
