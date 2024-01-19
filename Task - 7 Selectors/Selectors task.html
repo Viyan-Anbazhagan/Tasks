@@ -1,0 +1,61 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible"
+		content="IE=edge">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+	<title>
+		Html selsctors in JavaScript
+	</title>
+</head>
+
+<body>
+	
+
+	<h1 class="name">
+		Subramani
+	</h1>
+
+	<h2>
+		Palanisamy
+	</h2>
+
+	<p id="role">
+		software developer
+	</p>
+	
+	<button type="button" onclick=
+		'document.getElementById("role").style.backgroundColor = "red"'>
+		Change by id!
+	</button>
+    <button type="button" onclick=
+		'document.getElementsByClassName("name")[0].style.backgroundColor = "green"'>
+		Change by class!
+	</button>
+	<button type="button" onclick=
+		'document.getElementsByTagName("h2")[0].style.backgroundColor = "blue"'>
+		Change by tag name
+	</button>
+
+	<br>
+	<br>
+	<div>
+		<p name="username">Username</p>
+		<input type="text" name="username" id="username">
+		
+	</div>
+	<p id="content"></p>
+	<p id="content1"></p>
+
+    
+</body>
+<script>
+	let elements = document.getElementsByName("username");
+	document.getElementById("content").innerHTML = elements[0].tagName;
+	document.getElementById("content1").innerHTML = elements[1].tagName;
+</script>
+</html>
